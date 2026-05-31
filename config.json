@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcync",
+        "uuid": 8796718,
+        "checksum": "z70ojk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
